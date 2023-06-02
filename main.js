@@ -21,6 +21,7 @@ class door extends HTMLElement{
                     left: 0px;
                     top: 0px;
                     overflow: hidden;
+                    z-index: 999;
                 }
                 #left-door{
                     width: 50vw;
